@@ -20,3 +20,7 @@
 * Apply the filter
 * Recall that you can Save the result
 * Press Undo
+
+# Exercises
+
+1. Remove instances where humidity is high
