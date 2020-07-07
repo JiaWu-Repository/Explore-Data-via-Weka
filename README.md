@@ -25,7 +25,7 @@
 1. Remove instances where humidity is high.
 
 # Exercise -2
-1. Download the data "trains-transformed.data" from https://archive.ics.uci.edu/ml/datasets/Trains 
-2. Create an ''Arff data'' version for Weka
+1. Download the data "trains-transformed.data" from https://archive.ics.uci.edu/ml/datasets/Trains; 
+2. Create an ''Arff data'' version for Weka;
 3. Check whether it has missing values? If so, remove the instances that contain the missing values.
 
