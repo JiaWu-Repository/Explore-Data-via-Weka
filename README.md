@@ -8,6 +8,7 @@
 
 # Open file weather.nominal.arff
 ![image](Figs/Fig2.png)
+![image](Figs/Fig3.png)
 
 # Use a filter to remove an attribute
 
