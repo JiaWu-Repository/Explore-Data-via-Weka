@@ -28,5 +28,5 @@
 # Exercise -2
 1. Download the data "trains-transformed.data" from https://archive.ics.uci.edu/ml/datasets/Trains; 
 2. Create an ''Arff data'' version for Weka;
-3. Check whether it has missing values? If so, remove the instances that contain the missing values.
+3. Check whether it has missing values? If so, report the % of the missing values and then remove the instances that contain the missing values.
 
